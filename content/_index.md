@@ -13,4 +13,9 @@ Im Pad könnt ihr unkompliziert Fragen stellen, Ansätze/Alternativen diskutiere
 
 {{< button href="https://md.fachschaften.org/eida_sammlung" >}}zum Pad{{< /button >}}
 
+**Repo**
+Über das Repo könnt ihr "ausgereifte" Lösungen direkt hier auf die Website bringen. Dazu einfach einen Pull-Request aufmachen.
+
+{{< button href="https://github.com/Radler77/eida.uzanto.me" >}}zum Repo{{< /button >}}
+
 {{< /hint >}}
